@@ -44,4 +44,4 @@ plotly==5.24.1
 streamlit-option-menu==0.4.0
 matplotlib==3.9.2
 seaborn==0.13.2
-streamlit-jupyter 0.2.1
+streamlit-jupyter== 0.2.1
