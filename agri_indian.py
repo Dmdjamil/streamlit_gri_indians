@@ -110,7 +110,7 @@ footer = st.container()
 # In[2]:
 
 #st.image("inde.jpg", caption="Sunrise by the mountains")
-img = Image.open("c:/Users/DELL/Videos/python_1/Agri_logo.png")
+img = Image.open("Agri_logo.png")
 
 with header : 
     #st.title()
