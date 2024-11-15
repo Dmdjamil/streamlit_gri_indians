@@ -26,7 +26,7 @@ from PIL import Image
 
 
 #importation et nettoyage des données
-df = pd.read_csv('C:/Users/DELL/Videos/python_1/ICRISAT-District Level Data.csv')
+df = pd.read_csv('ICRISAT-District Level Data.csv')
 #df.isnull().sum() 
 #st.write(df.head())
 df = df.drop(['Dist Code', 'State Code', 'Dist Name'], axis = 1)
